@@ -1,0 +1,15 @@
+{
+  "name": "mini_todo_list_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mini_todo_list_back": "file:"
+  }
+}

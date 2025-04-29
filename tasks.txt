@@ -1,0 +1,13 @@
+[
+  {
+    "id": 6,
+    "title": "iusddfhfiu",
+    "description": "rztgrzth",
+    "createdAt": "2025-04-29T12:12:34.153Z",
+    "valid": "❌",
+    "imageURL": "http://monimage.fr",
+    "taskButtonText": "Tâche non finit !",
+    "userHasPressed": false,
+    "ButtonDelete": "Supprimer la tâche"
+  }
+]
